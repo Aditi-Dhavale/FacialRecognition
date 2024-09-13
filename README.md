@@ -1,2 +1,2 @@
-# Facial Recognition for Attendance sytem 
-One-shot facial recognition using siamese neural network for Smart Classroom Management System SIH24
+# Facial Recognition for Attendance sytem SIH24
+One-shot facial recognition using parsed embeddings extracted from pretrained CNN for Smart Classroom Management System
